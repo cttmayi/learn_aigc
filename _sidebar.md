@@ -1,20 +1,56 @@
 <!-- _sidebar.md -->
 
-* 基础知识
-  * [关键词](/docs/关键词.md) <!--注意这里是相对路径-->
-* 进阶知识
 
-* ChatGPT
+* ChatGPT概述
+  * AI生成内容
+    * 生成模型简介
+    * ChatGPT背景
+    * 应用场景
 
-  * [提示工程](/docs/提示工程.md)
+  * 技术原理
+    * GPT模型
+    * Transformer结构
+    * 自注意力机制
 
-  * 
+* 核心技术
+  * [提示工程(Prompt)](/docs/提示工程.md)
+    * Prompt概念
+    * 有效Prompt
+    * 实例分析
 
-* LLMs
-  * 理论：ReAct + MRKL
-  * 工具：Langchain
-  
+  * Fine-tuning
+    * 微调原理
+    * 数据集准备
+    * 微调实践
+
+  * Embedding
+    * 词嵌入简介
+    * BPE编码
+    * Embedding优化
+
+* 应用与优化
+  * 生成策略
+    * 温度调整
+    * Top-K采样
+    * Top-P采样
+
+  * 多模态应用
+    * 图像生成
+    * 语音合成
+    * 视频处理
+
+  * 安全与伦理
+    * 生成内容风险
+    * 伦理指南
+    * 可持续发展
+
+
+
 * 相关知识
+  * LLMs
+    * 理论：ReAct + MRKL
+    * 工具：Langchain
+  * [关键词](/docs/关键词.md)
   * AI资源
   * AI工具
 
