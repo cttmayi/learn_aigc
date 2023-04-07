@@ -14,12 +14,12 @@
 
 * 核心技术
   * [提示工程(Prompt)](/docs/prompt/prompt.md)
-    * [零样本提示]（Zero-Shot）(/docs/prompt/zero-shot.md)
-    * [少样本提示]（Few-Shot）(/docs/prompt/few-shot.md)
-    * 链式思考提示（CoT）
+    * [零样本提示(Zero-Shot)](/docs/prompt/zero-shot.md)
+    * [少样本提示(Few-Shot)](/docs/prompt/few-shot.md)
+    * 链式思考提示(CoT)
     * 自我一致性
     * 生成知识提示
-    * 自动提示工程师（APE）
+    * 自动提示工程师(APE)
     * Active-Prompt
     * 方向性刺激提示
     * ReAct
