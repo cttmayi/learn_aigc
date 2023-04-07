@@ -17,12 +17,12 @@
     * [零样本提示(Zero-Shot)](/docs/prompt/zero-shot.md)
     * [少样本提示(Few-Shot)](/docs/prompt/few-shot.md)
     * 链式思考提示(CoT)
-    * 自我一致性
+    * [自我一致性(Self-Consistency)](/docs/prompt/self-consistency.md)
     * 生成知识提示
     * 自动提示工程师(APE)
     * Active-Prompt
     * 方向性刺激提示
-    * ReAct
+    * [ReAct](/docs/prompt/react.md)
     * 多模态思维链提示方法
     * 基于图的提示
 
