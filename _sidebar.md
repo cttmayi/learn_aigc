@@ -13,10 +13,19 @@
     * 自注意力机制
 
 * 核心技术
-  * [提示工程(Prompt)](/docs/提示工程.md)
-    * Prompt概念
-    * 有效Prompt
-    * 实例分析
+  * [提示工程(Prompt)](/docs/prompt/prompt.md)
+    * 零样本提示（Zero-Shot）
+    * 少样本提示（Few-Shot）
+    * 链式思考提示（CoT）
+    * 自我一致性
+    * 生成知识提示
+    * 自动提示工程师（APE）
+    * Active-Prompt
+    * 方向性刺激提示
+    * ReAct
+    * 多模态思维链提示方法
+    * 基于图的提示
+
 
   * Fine-tuning
     * 微调原理
