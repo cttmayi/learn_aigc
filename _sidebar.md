@@ -32,7 +32,7 @@
     * 数据集准备
     * 微调实践
 
-  * Embedding
+  * [Embedding](/docs/embedding/embedding.md)
     * 词嵌入简介
     * BPE编码
     * Embedding优化
