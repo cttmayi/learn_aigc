@@ -40,3 +40,5 @@
 参考文献：
 * https://github.com/f/awesome-chatgpt-prompts
 * http://github.xiaoc.cn/dair-ai/Prompt-Engineering-Guide
+* [The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts](https://www.amazon.com/Art-ChatGPT-Prompting-Crafting-Effective-ebook/dp/B0BV3DM3FY)
+
