@@ -1,7 +1,7 @@
 <!-- _sidebar.md -->
+# AIGC
 
-
-* ChatGPT概
+* ChatGPT概念
   * 技术原理
     * [架构知识](/docs/gpt/架构知识.md)
     * Transformer结构
@@ -14,12 +14,6 @@
       * [自我一致性(Self-Consistency)](/docs/prompt/self-consistency.md)
       * [ReAct](/docs/prompt/react.md)
       * 链式思考提示(CoT)
-      * 生成知识提示
-      * 自动提示工程师(APE)
-      * Active-Prompt
-      * 方向性刺激提示
-      * 多模态思维链提示方法
-      * 基于图的提示
 
     * Fine-tuning
       * 微调原理
@@ -45,5 +39,6 @@
 * 相关知识
   * [关键词](/docs/others/关键词.md)
   * [开源项目](docs/others/开源项目.md)
+  * 相关工具
 
 
