@@ -3,7 +3,7 @@
 
 * ChatGPT概
   * 技术原理
-    * GPT模型
+    * [架构知识](/docs/gpt/架构知识.md)
     * Transformer结构
     * 自注意力机制
 
