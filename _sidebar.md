@@ -15,5 +15,5 @@
 * 相关知识
   * [关键词](/docs/others/关键词.md)
   * [开源项目](docs/others/开源项目.md)
-  * 相关工具
+  * [相关工具](docs/others/相关工具.md)
 
