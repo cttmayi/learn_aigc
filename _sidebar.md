@@ -1,5 +1,4 @@
 <!-- _sidebar.md -->
-# GPT
 
 * 技术原理
   * [架构知识](/docs/gpt/架构知识.md)
