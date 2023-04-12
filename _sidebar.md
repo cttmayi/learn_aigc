@@ -10,7 +10,7 @@
     * [自我一致性(Self-Consistency)](/docs/prompt/self-consistency.md)
     * [链式思考(Chain-of-Thought)](/docs/prompt/cot.md)
     * [ReAct](/docs/prompt/react.md)
-  * Fine-tuning
+  * [微调(Fine-tuning)](/docs/finetune/finetune.md)
   * [Embedding](/docs/embedding/embedding.md)
 * 相关知识
   * [关键词](/docs/others/关键词.md)
