@@ -6,7 +6,7 @@ Transformer在数学上是大矩阵的计算，通过计算不同语义之间的
 
 Transformer中的核心组件是多头自注意机制模块。Transformer将输入的编码表示视为一组键值对（K，V），两者的维度都等于输入序列长度。
 
-![多头自注意机制模块](/pics/attention.webp)
+![多头自注意机制模块](/pics/attention.jpg)
 
 多头注意力机制的模块内采用缩放点积注意力机制：输出是值的加权和，其中分配给每个值的权重由查询（Q）与所有键（K）的点积决定：
 
@@ -22,11 +22,11 @@ Transformer中的核心组件是多头自注意机制模块。Transformer将输�
 
 
 
-![Transformer整体架构](/pics/transformer.webp)
+![Transformer整体架构](/pics/transformer.jpg)
 
 单个编码器层由多头注意力块（含有Q、K、V输入）和一个前馈模块组成。解码器层由多头注意力块开始，后面是一个连接编码器堆栈输出的多头注意块（即查询Q来自解码器，而值V和键K来自编码器），然后是一个前馈模块，最终在 Softmax（选择概率最高的分类或词汇）模块进行分类器输出。
 
 随着Transformer技术的发展，Transformer也使用在了CV领域，并形成了Vision Transformer技术。
 
-![transformer_v_l](/pics/transformer_v_l.webp)
+![transformer_v_l](/pics/transformer_v_l.jpg)
 
