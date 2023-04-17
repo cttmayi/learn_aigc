@@ -1,0 +1,6 @@
+
+# Least-to-Most
+
+参考文献：
+
+[LEAST-TO-MOST PROMPTING ENABLES COMPLEX REASONING IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2205.10625.pdf)
