@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ./pics
----
-
 # Transformer与注意力机制
 
 "Attention is All You Need"（Vaswani, et al., 2017）是2017年最有影响力的NLP论文之一。这篇论文提出了很多对注意力技术的改进，在循环网络单元的情况下实现seq2seq建模，并且提出新的Transformer架构。

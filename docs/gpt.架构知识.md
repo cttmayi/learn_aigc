@@ -1,8 +1,3 @@
----
-typora-copy-images-to: ./pics
----
-
-
 # 架构知识
 
 ## RNN/LSTM/GRU时代
