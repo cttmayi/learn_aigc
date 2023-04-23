@@ -1,6 +1,6 @@
 <!-- _sidebar.md -->
 
 
-* [ChatGPT](/docs/chatGPT.md)
+* [ChatGPT](/chatGPT/chatGPT.md)
 
 
