@@ -1,6 +1,6 @@
 # CoT(Chain-of-Thought)
 
-![cot](/Users/ling/Project/learn_aigc/pics/cot.webp)
+![cot](chatGPT/pics/cot.jpg)
 
 引入的链式思考（CoT）**提示通过中间推理步骤实现了复杂的推理能力**。您可以将其与少样本提示相结合，以获得更好的结果，以便在回答之前进行推理的更复杂的任务。
 
