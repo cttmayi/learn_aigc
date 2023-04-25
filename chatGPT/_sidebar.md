@@ -11,6 +11,7 @@
     * [链式思考(Chain-of-Thought)](/chatGPT/prompt.cot.md)
     * [让我们一步一步来(Zero-Shot Cot)](/chatGPT/prompt.zero-shot-cot.md)
     * [Reason&Action(ReAct)](/chatGPT/prompt.react.md)
+    * [CAMEL](/chatGPT/prompt.CAMEL.md)
   * [微调(Fine-tuning)](/chatGPT/finetune.md)
   * [Embedding](/chatGPT/embedding.md)
 * 相关知识
